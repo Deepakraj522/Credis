@@ -1,0 +1,534 @@
+{
+  "worker_id": "W003",
+  "worker_type": "gig_worker",
+  "deposit_account": {
+    "profile": {
+      "name": "Arjun Das",
+      "dob": "1995-03-08",
+      "mobile": "9712345678",
+      "pan": "CDEQA9012F",
+      "email": "arjun.das@gmail.com",
+      "ckycCompliance": false,
+      "maskedAccNumber": "XXXX3456",
+      "branch": "Coimbatore RS Puram",
+      "ifscCode": "HDFC0003456",
+      "openingDate": "2023-01-10",
+      "status": "ACTIVE",
+      "type": "SAVINGS"
+    },
+    "summary": {
+      "currentBalance": 3200.0,
+      "currency": "INR"
+    },
+    "transactions": [
+      {
+        "txnId": "W003-T001",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2200,
+        "transactionTimestamp": "2024-01-07T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T002",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2100,
+        "transactionTimestamp": "2024-01-14T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T003",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2300,
+        "transactionTimestamp": "2024-01-21T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T004",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 3500,
+        "transactionTimestamp": "2024-01-01T09:00:00",
+        "narration": "RENT PAYMENT JAN 2024"
+      },
+      {
+        "txnId": "W003-T005",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 750,
+        "transactionTimestamp": "2024-01-17T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL JAN"
+      },
+      {
+        "txnId": "W003-T006",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 149,
+        "transactionTimestamp": "2024-01-23T09:00:00",
+        "narration": "BSNL PREPAID RECHARGE"
+      },
+      {
+        "txnId": "W003-T007",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2000,
+        "transactionTimestamp": "2024-02-04T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T008",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 1900,
+        "transactionTimestamp": "2024-02-11T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T009",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 3500,
+        "transactionTimestamp": "2024-02-01T09:00:00",
+        "narration": "RENT PAYMENT FEB 2024"
+      },
+      {
+        "txnId": "W003-T010",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 720,
+        "transactionTimestamp": "2024-02-17T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL FEB"
+      },
+      {
+        "txnId": "W003-T011",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2100,
+        "transactionTimestamp": "2024-03-03T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T012",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2200,
+        "transactionTimestamp": "2024-03-10T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T013",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2000,
+        "transactionTimestamp": "2024-03-17T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T014",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 3500,
+        "transactionTimestamp": "2024-03-01T09:00:00",
+        "narration": "RENT PAYMENT MAR 2024"
+      },
+      {
+        "txnId": "W003-T015",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 760,
+        "transactionTimestamp": "2024-03-17T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL MAR"
+      },
+      {
+        "txnId": "W003-T016",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2300,
+        "transactionTimestamp": "2024-04-07T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T017",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2100,
+        "transactionTimestamp": "2024-04-14T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T018",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 3500,
+        "transactionTimestamp": "2024-04-01T09:00:00",
+        "narration": "RENT PAYMENT APR 2024"
+      },
+      {
+        "txnId": "W003-T019",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 740,
+        "transactionTimestamp": "2024-04-17T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL APR"
+      },
+      {
+        "txnId": "W003-T020",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2400,
+        "transactionTimestamp": "2024-05-05T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T021",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2200,
+        "transactionTimestamp": "2024-05-12T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T022",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2300,
+        "transactionTimestamp": "2024-05-19T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T023",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 3500,
+        "transactionTimestamp": "2024-05-01T09:00:00",
+        "narration": "RENT PAYMENT MAY 2024"
+      },
+      {
+        "txnId": "W003-T024",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 820,
+        "transactionTimestamp": "2024-05-17T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL MAY"
+      },
+      {
+        "txnId": "W003-T025",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2100,
+        "transactionTimestamp": "2024-06-09T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T026",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2000,
+        "transactionTimestamp": "2024-06-16T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T027",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 3500,
+        "transactionTimestamp": "2024-06-01T09:00:00",
+        "narration": "RENT PAYMENT JUN 2024"
+      },
+      {
+        "txnId": "W003-T028",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 780,
+        "transactionTimestamp": "2024-06-17T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL JUN"
+      },
+      {
+        "txnId": "W003-T029",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 1500,
+        "transactionTimestamp": "2024-07-07T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T030",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 1400,
+        "transactionTimestamp": "2024-07-14T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T031",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 3500,
+        "transactionTimestamp": "2024-07-01T09:00:00",
+        "narration": "RENT PAYMENT JUL 2024"
+      },
+      {
+        "txnId": "W003-T032",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 700,
+        "transactionTimestamp": "2024-07-17T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL JUL"
+      },
+      {
+        "txnId": "W003-T033",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2200,
+        "transactionTimestamp": "2024-08-04T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T034",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2300,
+        "transactionTimestamp": "2024-08-11T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T035",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2100,
+        "transactionTimestamp": "2024-08-18T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T036",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 3500,
+        "transactionTimestamp": "2024-08-01T09:00:00",
+        "narration": "RENT PAYMENT AUG 2024"
+      },
+      {
+        "txnId": "W003-T037",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 740,
+        "transactionTimestamp": "2024-08-17T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL AUG"
+      },
+      {
+        "txnId": "W003-T038",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2400,
+        "transactionTimestamp": "2024-09-08T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T039",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2200,
+        "transactionTimestamp": "2024-09-15T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T040",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 3500,
+        "transactionTimestamp": "2024-09-01T09:00:00",
+        "narration": "RENT PAYMENT SEP 2024"
+      },
+      {
+        "txnId": "W003-T041",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 760,
+        "transactionTimestamp": "2024-09-17T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL SEP"
+      },
+      {
+        "txnId": "W003-T042",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2500,
+        "transactionTimestamp": "2024-10-06T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T043",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2300,
+        "transactionTimestamp": "2024-10-13T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T044",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2400,
+        "transactionTimestamp": "2024-10-20T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T045",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 3500,
+        "transactionTimestamp": "2024-10-01T09:00:00",
+        "narration": "RENT PAYMENT OCT 2024"
+      },
+      {
+        "txnId": "W003-T046",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 780,
+        "transactionTimestamp": "2024-10-17T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL OCT"
+      },
+      {
+        "txnId": "W003-T047",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2600,
+        "transactionTimestamp": "2024-11-03T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T048",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2400,
+        "transactionTimestamp": "2024-11-10T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T049",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2500,
+        "transactionTimestamp": "2024-11-17T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T050",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 3500,
+        "transactionTimestamp": "2024-11-01T09:00:00",
+        "narration": "RENT PAYMENT NOV 2024"
+      },
+      {
+        "txnId": "W003-T051",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 790,
+        "transactionTimestamp": "2024-11-17T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL NOV"
+      },
+      {
+        "txnId": "W003-T052",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2700,
+        "transactionTimestamp": "2024-12-08T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T053",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2500,
+        "transactionTimestamp": "2024-12-15T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T054",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 2600,
+        "transactionTimestamp": "2024-12-22T19:00:00",
+        "narration": "UBER INDIA SYSTEMS PVT LTD"
+      },
+      {
+        "txnId": "W003-T055",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 3500,
+        "transactionTimestamp": "2024-12-01T09:00:00",
+        "narration": "RENT PAYMENT DEC 2024"
+      },
+      {
+        "txnId": "W003-T056",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 800,
+        "transactionTimestamp": "2024-12-17T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL DEC"
+      }
+    ]
+  },
+  "recurring_deposit": null,
+  "insurance_policy": null,
+  "nbcfdc_history": null,
+  "platform_data": {
+    "platform": "Uber",
+    "monthly_earnings": [
+      {
+        "month": "Jan-24",
+        "amount": 6600
+      },
+      {
+        "month": "Feb-24",
+        "amount": 3900
+      },
+      {
+        "month": "Mar-24",
+        "amount": 6300
+      },
+      {
+        "month": "Apr-24",
+        "amount": 4400
+      },
+      {
+        "month": "May-24",
+        "amount": 6900
+      },
+      {
+        "month": "Jun-24",
+        "amount": 4100
+      },
+      {
+        "month": "Jul-24",
+        "amount": 2900
+      },
+      {
+        "month": "Aug-24",
+        "amount": 6600
+      },
+      {
+        "month": "Sep-24",
+        "amount": 4600
+      },
+      {
+        "month": "Oct-24",
+        "amount": 7200
+      },
+      {
+        "month": "Nov-24",
+        "amount": 7500
+      },
+      {
+        "month": "Dec-24",
+        "amount": 7800
+      }
+    ],
+    "rating": 4.2,
+    "total_deliveries": 620,
+    "cancellation_rate": 0.09,
+    "active_days_per_month": 14
+  }
+}

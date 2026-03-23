@@ -1,0 +1,192 @@
+{
+  "worker_id": "W002",
+  "worker_name": "Meena Devi",
+  "platform": "Urban Company",
+  "credis_score": 91.2,
+  "risk_band": "LOW_RISK_HIGH_NEED",
+  "band_label": "Low Risk \u2014 High Need",
+  "loan_decision": "APPROVE_FAST",
+  "max_loan": 300000,
+  "approval_days": 1,
+  "avg_monthly_income": 10958.333333333334,
+  "top3_lenders": [
+    {
+      "lender_id": "L001",
+      "lender_name": "NBCFDC",
+      "lender_full_name": "National Backward Classes Finance and Development Corporation",
+      "lender_type": "government",
+      "scheme_name": "Term Loan for OBC / SC / ST Beneficiaries",
+      "eligibility": {
+        "min_credis_score": 70,
+        "min_monthly_income": 8000,
+        "max_annual_family_income": 300000,
+        "ckyc_required": true,
+        "target_category": [
+          "OBC",
+          "SC",
+          "ST",
+          "EWS"
+        ],
+        "age_min": 18,
+        "age_max": 55
+      },
+      "loan_details": {
+        "min_amount": 50000,
+        "max_amount": 300000,
+        "currency": "INR",
+        "interest_rate_percent": 8.0,
+        "tenure_months_min": 12,
+        "tenure_months_max": 60,
+        "processing_fee_percent": 0.5,
+        "collateral_required": false,
+        "loan_purpose": [
+          "business",
+          "vehicle",
+          "education",
+          "housing"
+        ]
+      },
+      "process": {
+        "approval_time_days": 7,
+        "disbursement_mode": "BANK_TRANSFER",
+        "repayment_mode": "EMI",
+        "prepayment_allowed": true,
+        "apply_mode": "OFFLINE_CHANNEL_PARTNER"
+      },
+      "contact": {
+        "website": "www.nbcfdc.gov.in",
+        "helpline": "011-26174968"
+      }
+    },
+    {
+      "lender_id": "L002",
+      "lender_name": "PM SVANidhi",
+      "lender_full_name": "PM Street Vendor's AtmaNirbhar Nidhi",
+      "lender_type": "government",
+      "scheme_name": "Working Capital Loan for Street Vendors",
+      "eligibility": {
+        "min_credis_score": 40,
+        "min_monthly_income": 2000,
+        "max_annual_family_income": 500000,
+        "ckyc_required": false,
+        "target_category": [
+          "street_vendor",
+          "gig_worker",
+          "informal_worker"
+        ],
+        "age_min": 18,
+        "age_max": 65
+      },
+      "loan_details": {
+        "min_amount": 10000,
+        "max_amount": 50000,
+        "currency": "INR",
+        "interest_rate_percent": 7.0,
+        "tenure_months_min": 12,
+        "tenure_months_max": 18,
+        "processing_fee_percent": 0.0,
+        "collateral_required": false,
+        "loan_purpose": [
+          "working_capital",
+          "business"
+        ]
+      },
+      "process": {
+        "approval_time_days": 3,
+        "disbursement_mode": "BANK_TRANSFER",
+        "repayment_mode": "EMI",
+        "prepayment_allowed": true,
+        "apply_mode": "ONLINE_APP"
+      },
+      "contact": {
+        "website": "www.pmsvanidhi.mohua.gov.in",
+        "helpline": "1800-11-1979"
+      }
+    },
+    {
+      "lender_id": "L003",
+      "lender_name": "MUDRA Shishu",
+      "lender_full_name": "Pradhan Mantri MUDRA Yojana \u00e2\u20ac\u201d Shishu Category",
+      "lender_type": "government",
+      "scheme_name": "MUDRA Shishu Loan for Micro Enterprises",
+      "eligibility": {
+        "min_credis_score": 45,
+        "min_monthly_income": 3000,
+        "max_annual_family_income": 600000,
+        "ckyc_required": false,
+        "target_category": [
+          "micro_enterprise",
+          "gig_worker",
+          "self_employed"
+        ],
+        "age_min": 18,
+        "age_max": 65
+      },
+      "loan_details": {
+        "min_amount": 10000,
+        "max_amount": 50000,
+        "currency": "INR",
+        "interest_rate_percent": 10.0,
+        "tenure_months_min": 12,
+        "tenure_months_max": 36,
+        "processing_fee_percent": 0.0,
+        "collateral_required": false,
+        "loan_purpose": [
+          "business",
+          "equipment",
+          "working_capital"
+        ]
+      },
+      "process": {
+        "approval_time_days": 7,
+        "disbursement_mode": "BANK_TRANSFER",
+        "repayment_mode": "EMI",
+        "prepayment_allowed": true,
+        "apply_mode": "BANK_BRANCH"
+      },
+      "contact": {
+        "website": "www.mudra.org.in",
+        "helpline": "1800-180-1111"
+      }
+    }
+  ],
+  "total_eligible_lenders": 8,
+  "score_breakdown": {
+    "income_stability": 80,
+    "platform_reliability": 75.0,
+    "work_consistency": 100,
+    "spending_discipline": 100,
+    "income_growth": 35
+  },
+  "growth_roadmap": "# \ud83c\udf1f Personalized Financial Growth Roadmap\n## Meena Devi | Urban Company | CREDIS Score: 91.2\n\n---\n\n**Current Assessment:**\n- \u2705 Excellent CREDIS Score (91.2) - Strong repayment credibility\n- \u26a0\ufe0f Income decline of -4.6% needs immediate reversal\n- \u274c Zero RD/Insurance coverage (High Priority Action)\n- \u2705 Low Risk Status - Excellent loan access available\n- \ud83c\udfaf **NBCFDC Loan Option:** Rs.300,000 @ 8.0% interest\n\n---\n\n## MONTHS 1-3 (Foundation):\n- **Action 1: Open Recurring Deposit (RD)**\n  - Start with Rs.1,500/month through Urban Company payroll deduction\n  - This builds forced savings habit and emergency fund base\n  - Target: Rs.4,500 accumulated by Month 3\n\n- **Action 2: Activate Life & Health Insurance**\n  - Leverage NBCFDC loan for insurance premium payment\n  - Start with Rs.200,000 term life + Rs.100,000 health coverage\n  - Protect family against income shock\n\n- **Action 3: Income Stabilization Plan**\n  - Increase Urban Company service hours by 15-20% (add 3-4 more bookings/week)\n  - Focus on high-rated services to boost customer retention\n  - Target income reversal: Rs.10,958 \u2192 Rs.12,000/month\n\n---\n\n## MONTHS 4-6 (Growth):\n- **Action 1: Optimize NBCFDC Loan Utilization**\n  - Disburse Rs.300,000 loan strategically:\n    - Rs.100,000: Quality equipment upgrade (premium tools, eco-friendly products)\n    - Rs.50,000: Skill certification course (advanced beauty/wellness techniques)\n    - Rs.100,000: Emergency corpus + Insurance premium\n    - Rs.50,000: RD top-up for accelerated savings\n\n- **Action 2: Upskill & Cross-Train**\n  - Complete Urban Company's specialist certification\n  - Add 1-2 new service categories (e.g., spa treatments, bridal packages)\n  - Target: Increase average service billing by 20%\n\n- **Action 3: Increase RD to Rs.2,500/month**\n  - Scale savings as income grows\n  - Target: Additional Rs.7,500 accumulated (Total: Rs.12,000)\n\n---\n\n## MONTHS 7-9 (Expansion):\n- **Action 1: Multi-Income Stream Initiation**\n  - Launch weekend freelance services using upgraded equipment\n  - Partner with local salons/events for premium service contracts\n  - Target: Add Rs.3,000-4,000 extra monthly income\n\n- **Action 4: Build Digital Presence**\n  - Create professional profile on Urban Company premium tier\n  - Join 2-3 local community service groups (WhatsApp, Facebook)\n  - Leverage NBCFDC loan documentation for credibility\n\n- **Action 3: Start SIP (Systematic Investment Plan)**\n  - Begin with Rs.1,000/month in low-risk debt mutual funds\n  - Goal: Beat inflation while maintaining capital safety\n  - Continue RD at Rs.2,500/month\n\n---\n\n## MONTHS 10-12 (Consolidation):\n- **Action 1: Begin Loan Repayment Strategy**\n  - Create EMI plan for NBCFDC loan (target: Rs.5,500/month)\n  - Structure payments to align with Urban Company payout cycles\n  - Ensure on-time repayments to maintain CREDIT Score above 92\n\n- **Action 2: Replenish Emergency Fund**\n  - Target: 3 months of expenses in liquid savings (Rs.35,000)\n  - Use RD maturity + SIP returns to build this corpus\n  - Keep accessible for any income fluctuations\n\n- **Action 3: Annual Insurance Review**\n  - Assess if increased income warrants higher coverage\n  - Consider adding critical illness rider\n  - Ensure premiums remain sustainable at new income level\n\n---\n\n## \ud83c\udfaf YEAR END TARGET:\n\n| Metric | Current | Target | Growth |\n|--------|---------|--------|--------|\n| **Expected Income** | Rs.10,958/month | **Rs.16,500/month** | +50.6% |\n| **Savings Target** | Rs.0/month | **Rs.4,500/month** | New habit |\n| **Total Savings Accumulated** | Rs.0 | **Rs.54,000** | Includes RD + SIP |\n| **CREDIS Score Target** | 91.2 | **94.0+** | +2.8 points |\n| **Emergency Fund** | Rs.0 | **Rs.35,000+** | 3 months expenses",
+  "additional_metrics": {
+    "income_cv": 0.16634045699844044,
+    "growth_pct": -4.606240713224363,
+    "active_months": 12,
+    "rent_payments_count": 12,
+    "h1_avg": 11216.666666666666,
+    "h2_avg": 10700,
+    "min_income": 5400,
+    "max_income": 12600,
+    "rating": 4.5,
+    "cancellation_rate": 0.05,
+    "active_days_per_month": 18,
+    "has_rd": false,
+    "rd_amount": 0,
+    "rd_months_paid": 0,
+    "has_insurance": false,
+    "insurance_premium": 0,
+    "ckyc": true,
+    "current_balance": 8200.0,
+    "nbcfdc_history": {
+      "previous_loan_amount": 30000,
+      "loan_purpose": "household",
+      "tenure_months": 12,
+      "repayment_status": "COMPLETED",
+      "on_time_payments": 10,
+      "late_payments": 2,
+      "missed_payments": 0,
+      "repeat_borrower": false
+    }
+  }
+}

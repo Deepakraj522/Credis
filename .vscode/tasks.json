@@ -1,0 +1,49 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Frontend: npm start",
+      "type": "shell",
+      "command": "npm start",
+      "options": {
+        "cwd": "${workspaceFolder}/credis-frontend"
+      },
+      "isBackground": true,
+      "problemMatcher": {
+        "pattern": {
+          "regexp": "^.*$",
+          "file": 1,
+          "location": 2,
+          "message": 3
+        },
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": "Compiled successfully",
+          "endsPattern": "Compiled successfully"
+        }
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    },
+    {
+      "label": "Backend: python app",
+      "type": "shell",
+      "command": "&${workspaceFolder}\\venv\\Scripts\\Activate.ps1; python dashboard/app.py",
+      "isBackground": false,
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    },
+    {
+      "label": "Run Frontend & Backend",
+      "dependsOn": [
+        "Frontend: npm start",
+        "Backend: python app"
+      ],
+      "problemMatcher": []
+    }
+  ]
+}

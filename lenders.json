@@ -1,0 +1,308 @@
+{
+  "lenders": [
+    {
+      "lender_id": "L001",
+      "lender_name": "NBCFDC",
+      "lender_full_name": "National Backward Classes Finance and Development Corporation",
+      "lender_type": "government",
+      "scheme_name": "Term Loan for OBC / SC / ST Beneficiaries",
+      "eligibility": {
+        "min_credis_score": 70,
+        "min_monthly_income": 8000,
+        "max_annual_family_income": 300000,
+        "ckyc_required": true,
+        "target_category": ["OBC", "SC", "ST", "EWS"],
+        "age_min": 18,
+        "age_max": 55
+      },
+      "loan_details": {
+        "min_amount": 50000,
+        "max_amount": 300000,
+        "currency": "INR",
+        "interest_rate_percent": 8.0,
+        "tenure_months_min": 12,
+        "tenure_months_max": 60,
+        "processing_fee_percent": 0.5,
+        "collateral_required": false,
+        "loan_purpose": ["business", "vehicle", "education", "housing"]
+      },
+      "process": {
+        "approval_time_days": 7,
+        "disbursement_mode": "BANK_TRANSFER",
+        "repayment_mode": "EMI",
+        "prepayment_allowed": true,
+        "apply_mode": "OFFLINE_CHANNEL_PARTNER"
+      },
+      "contact": {
+        "website": "www.nbcfdc.gov.in",
+        "helpline": "011-26174968"
+      }
+    },
+    {
+      "lender_id": "L002",
+      "lender_name": "PM SVANidhi",
+      "lender_full_name": "PM Street Vendor's AtmaNirbhar Nidhi",
+      "lender_type": "government",
+      "scheme_name": "Working Capital Loan for Street Vendors",
+      "eligibility": {
+        "min_credis_score": 40,
+        "min_monthly_income": 2000,
+        "max_annual_family_income": 500000,
+        "ckyc_required": false,
+        "target_category": ["street_vendor", "gig_worker", "informal_worker"],
+        "age_min": 18,
+        "age_max": 65
+      },
+      "loan_details": {
+        "min_amount": 10000,
+        "max_amount": 50000,
+        "currency": "INR",
+        "interest_rate_percent": 7.0,
+        "tenure_months_min": 12,
+        "tenure_months_max": 18,
+        "processing_fee_percent": 0.0,
+        "collateral_required": false,
+        "loan_purpose": ["working_capital", "business"]
+      },
+      "process": {
+        "approval_time_days": 3,
+        "disbursement_mode": "BANK_TRANSFER",
+        "repayment_mode": "EMI",
+        "prepayment_allowed": true,
+        "apply_mode": "ONLINE_APP"
+      },
+      "contact": {
+        "website": "www.pmsvanidhi.mohua.gov.in",
+        "helpline": "1800-11-1979"
+      }
+    },
+    {
+      "lender_id": "L003",
+      "lender_name": "MUDRA Shishu",
+      "lender_full_name": "Pradhan Mantri MUDRA Yojana — Shishu Category",
+      "lender_type": "government",
+      "scheme_name": "MUDRA Shishu Loan for Micro Enterprises",
+      "eligibility": {
+        "min_credis_score": 45,
+        "min_monthly_income": 3000,
+        "max_annual_family_income": 600000,
+        "ckyc_required": false,
+        "target_category": ["micro_enterprise", "gig_worker", "self_employed"],
+        "age_min": 18,
+        "age_max": 65
+      },
+      "loan_details": {
+        "min_amount": 10000,
+        "max_amount": 50000,
+        "currency": "INR",
+        "interest_rate_percent": 10.0,
+        "tenure_months_min": 12,
+        "tenure_months_max": 36,
+        "processing_fee_percent": 0.0,
+        "collateral_required": false,
+        "loan_purpose": ["business", "equipment", "working_capital"]
+      },
+      "process": {
+        "approval_time_days": 7,
+        "disbursement_mode": "BANK_TRANSFER",
+        "repayment_mode": "EMI",
+        "prepayment_allowed": true,
+        "apply_mode": "BANK_BRANCH"
+      },
+      "contact": {
+        "website": "www.mudra.org.in",
+        "helpline": "1800-180-1111"
+      }
+    },
+    {
+      "lender_id": "L004",
+      "lender_name": "MUDRA Kishor",
+      "lender_full_name": "Pradhan Mantri MUDRA Yojana — Kishor Category",
+      "lender_type": "government",
+      "scheme_name": "MUDRA Kishor Loan for Growing Micro Enterprises",
+      "eligibility": {
+        "min_credis_score": 60,
+        "min_monthly_income": 8000,
+        "max_annual_family_income": 1000000,
+        "ckyc_required": true,
+        "target_category": ["micro_enterprise", "gig_worker", "self_employed"],
+        "age_min": 18,
+        "age_max": 60
+      },
+      "loan_details": {
+        "min_amount": 50001,
+        "max_amount": 500000,
+        "currency": "INR",
+        "interest_rate_percent": 11.0,
+        "tenure_months_min": 12,
+        "tenure_months_max": 60,
+        "processing_fee_percent": 0.5,
+        "collateral_required": false,
+        "loan_purpose": ["business", "vehicle", "equipment", "working_capital"]
+      },
+      "process": {
+        "approval_time_days": 10,
+        "disbursement_mode": "BANK_TRANSFER",
+        "repayment_mode": "EMI",
+        "prepayment_allowed": true,
+        "apply_mode": "BANK_BRANCH"
+      },
+      "contact": {
+        "website": "www.mudra.org.in",
+        "helpline": "1800-180-1111"
+      }
+    },
+    {
+      "lender_id": "L005",
+      "lender_name": "Ujjivan Small Finance Bank",
+      "lender_full_name": "Ujjivan Small Finance Bank Ltd",
+      "lender_type": "small_finance_bank",
+      "scheme_name": "Individual Business Loan for Informal Workers",
+      "eligibility": {
+        "min_credis_score": 60,
+        "min_monthly_income": 8000,
+        "max_annual_family_income": 1200000,
+        "ckyc_required": true,
+        "target_category": ["gig_worker", "self_employed", "informal_worker"],
+        "age_min": 21,
+        "age_max": 58
+      },
+      "loan_details": {
+        "min_amount": 25000,
+        "max_amount": 200000,
+        "currency": "INR",
+        "interest_rate_percent": 21.0,
+        "tenure_months_min": 12,
+        "tenure_months_max": 36,
+        "processing_fee_percent": 1.0,
+        "collateral_required": false,
+        "loan_purpose": ["business", "working_capital", "personal"]
+      },
+      "process": {
+        "approval_time_days": 3,
+        "disbursement_mode": "BANK_TRANSFER",
+        "repayment_mode": "EMI",
+        "prepayment_allowed": true,
+        "apply_mode": "ONLINE_OR_BRANCH"
+      },
+      "contact": {
+        "website": "www.ujjivansfb.in",
+        "helpline": "1800-208-2121"
+      }
+    },
+    {
+      "lender_id": "L006",
+      "lender_name": "Arohan Financial Services",
+      "lender_full_name": "Arohan Financial Services Ltd — Microfinance",
+      "lender_type": "microfinance_institution",
+      "scheme_name": "Income Generation Loan for Low Income Workers",
+      "eligibility": {
+        "min_credis_score": 45,
+        "min_monthly_income": 3000,
+        "max_annual_family_income": 300000,
+        "ckyc_required": false,
+        "target_category": ["gig_worker", "daily_wage", "informal_worker", "women_workers"],
+        "age_min": 18,
+        "age_max": 55
+      },
+      "loan_details": {
+        "min_amount": 10000,
+        "max_amount": 100000,
+        "currency": "INR",
+        "interest_rate_percent": 22.0,
+        "tenure_months_min": 12,
+        "tenure_months_max": 24,
+        "processing_fee_percent": 1.0,
+        "collateral_required": false,
+        "loan_purpose": ["income_generation", "business", "working_capital"]
+      },
+      "process": {
+        "approval_time_days": 3,
+        "disbursement_mode": "BANK_TRANSFER",
+        "repayment_mode": "WEEKLY_OR_MONTHLY_EMI",
+        "prepayment_allowed": false,
+        "apply_mode": "FIELD_OFFICER_VISIT"
+      },
+      "contact": {
+        "website": "www.arohan.in",
+        "helpline": "1800-103-0304"
+      }
+    },
+    {
+      "lender_id": "L007",
+      "lender_name": "Aye Finance",
+      "lender_full_name": "Aye Finance Pvt Ltd",
+      "lender_type": "nbfc",
+      "scheme_name": "Micro Business Loan for Informal Sector",
+      "eligibility": {
+        "min_credis_score": 45,
+        "min_monthly_income": 5000,
+        "max_annual_family_income": 800000,
+        "ckyc_required": false,
+        "target_category": ["micro_business", "gig_worker", "self_employed"],
+        "age_min": 21,
+        "age_max": 55
+      },
+      "loan_details": {
+        "min_amount": 30000,
+        "max_amount": 200000,
+        "currency": "INR",
+        "interest_rate_percent": 25.0,
+        "tenure_months_min": 12,
+        "tenure_months_max": 36,
+        "processing_fee_percent": 2.0,
+        "collateral_required": false,
+        "loan_purpose": ["business", "equipment", "working_capital"]
+      },
+      "process": {
+        "approval_time_days": 2,
+        "disbursement_mode": "BANK_TRANSFER",
+        "repayment_mode": "EMI",
+        "prepayment_allowed": true,
+        "apply_mode": "ONLINE_OR_BRANCH"
+      },
+      "contact": {
+        "website": "www.ayefin.com",
+        "helpline": "1860-267-3030"
+      }
+    },
+    {
+      "lender_id": "L008",
+      "lender_name": "Jana Small Finance Bank",
+      "lender_full_name": "Jana Small Finance Bank Ltd",
+      "lender_type": "small_finance_bank",
+      "scheme_name": "Micro Loan for Unbanked and Underbanked Workers",
+      "eligibility": {
+        "min_credis_score": 55,
+        "min_monthly_income": 6000,
+        "max_annual_family_income": 900000,
+        "ckyc_required": true,
+        "target_category": ["gig_worker", "self_employed", "informal_worker"],
+        "age_min": 21,
+        "age_max": 58
+      },
+      "loan_details": {
+        "min_amount": 20000,
+        "max_amount": 150000,
+        "currency": "INR",
+        "interest_rate_percent": 24.0,
+        "tenure_months_min": 12,
+        "tenure_months_max": 36,
+        "processing_fee_percent": 2.0,
+        "collateral_required": false,
+        "loan_purpose": ["business", "working_capital", "personal", "vehicle"]
+      },
+      "process": {
+        "approval_time_days": 5,
+        "disbursement_mode": "BANK_TRANSFER",
+        "repayment_mode": "EMI",
+        "prepayment_allowed": true,
+        "apply_mode": "ONLINE_OR_BRANCH"
+      },
+      "contact": {
+        "website": "www.janabank.com",
+        "helpline": "1800-202-0061"
+      }
+    }
+  ]
+}

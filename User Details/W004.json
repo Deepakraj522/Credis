@@ -1,0 +1,830 @@
+{
+  "worker_id": "W004",
+  "worker_type": "gig_worker",
+  "deposit_account": {
+    "profile": {
+      "name": "Priya Lakshmi",
+      "dob": "1992-07-30",
+      "mobile": "9600112233",
+      "pan": "DEFRL2345G",
+      "email": "priya.lakshmi@gmail.com",
+      "ckycCompliance": true,
+      "maskedAccNumber": "XXXX4567",
+      "branch": "Bengaluru Koramangala",
+      "ifscCode": "ICIC0004567",
+      "openingDate": "2018-11-20",
+      "status": "ACTIVE",
+      "type": "SAVINGS"
+    },
+    "summary": {
+      "currentBalance": 38500.0,
+      "currency": "INR"
+    },
+    "transactions": [
+      {
+        "txnId": "W004-T001",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 9200,
+        "transactionTimestamp": "2024-01-05T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T002",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 9500,
+        "transactionTimestamp": "2024-01-12T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T003",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 9300,
+        "transactionTimestamp": "2024-01-19T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T004",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 9600,
+        "transactionTimestamp": "2024-01-26T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T005",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 10000,
+        "transactionTimestamp": "2024-01-01T09:00:00",
+        "narration": "RENT PAYMENT JAN 2024"
+      },
+      {
+        "txnId": "W004-T006",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 2200,
+        "transactionTimestamp": "2024-01-15T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL JAN"
+      },
+      {
+        "txnId": "W004-T007",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 399,
+        "transactionTimestamp": "2024-01-20T09:00:00",
+        "narration": "AIRTEL POSTPAID BILL"
+      },
+      {
+        "txnId": "W004-T008",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 9400,
+        "transactionTimestamp": "2024-02-02T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T009",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 9700,
+        "transactionTimestamp": "2024-02-09T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T010",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 9500,
+        "transactionTimestamp": "2024-02-16T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T011",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 9800,
+        "transactionTimestamp": "2024-02-23T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T012",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 10000,
+        "transactionTimestamp": "2024-02-01T09:00:00",
+        "narration": "RENT PAYMENT FEB 2024"
+      },
+      {
+        "txnId": "W004-T013",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 2100,
+        "transactionTimestamp": "2024-02-15T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL FEB"
+      },
+      {
+        "txnId": "W004-T014",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 399,
+        "transactionTimestamp": "2024-02-20T09:00:00",
+        "narration": "AIRTEL POSTPAID BILL"
+      },
+      {
+        "txnId": "W004-T015",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 9800,
+        "transactionTimestamp": "2024-03-01T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T016",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10100,
+        "transactionTimestamp": "2024-03-08T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T017",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 9900,
+        "transactionTimestamp": "2024-03-15T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T018",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10200,
+        "transactionTimestamp": "2024-03-22T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T019",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 10000,
+        "transactionTimestamp": "2024-03-01T09:00:00",
+        "narration": "RENT PAYMENT MAR 2024"
+      },
+      {
+        "txnId": "W004-T020",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 2300,
+        "transactionTimestamp": "2024-03-15T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL MAR"
+      },
+      {
+        "txnId": "W004-T021",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10000,
+        "transactionTimestamp": "2024-04-05T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T022",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10300,
+        "transactionTimestamp": "2024-04-12T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T023",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10100,
+        "transactionTimestamp": "2024-04-19T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T024",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10400,
+        "transactionTimestamp": "2024-04-26T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T025",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 10000,
+        "transactionTimestamp": "2024-04-01T09:00:00",
+        "narration": "RENT PAYMENT APR 2024"
+      },
+      {
+        "txnId": "W004-T026",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 2150,
+        "transactionTimestamp": "2024-04-15T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL APR"
+      },
+      {
+        "txnId": "W004-T027",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10200,
+        "transactionTimestamp": "2024-05-03T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T028",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10500,
+        "transactionTimestamp": "2024-05-10T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T029",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10300,
+        "transactionTimestamp": "2024-05-17T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T030",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10600,
+        "transactionTimestamp": "2024-05-24T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T031",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 10000,
+        "transactionTimestamp": "2024-05-01T09:00:00",
+        "narration": "RENT PAYMENT MAY 2024"
+      },
+      {
+        "txnId": "W004-T032",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 2500,
+        "transactionTimestamp": "2024-05-15T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL MAY"
+      },
+      {
+        "txnId": "W004-T033",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 9800,
+        "transactionTimestamp": "2024-06-07T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T034",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10100,
+        "transactionTimestamp": "2024-06-14T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T035",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 9900,
+        "transactionTimestamp": "2024-06-21T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T036",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10200,
+        "transactionTimestamp": "2024-06-28T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T037",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 10000,
+        "transactionTimestamp": "2024-06-01T09:00:00",
+        "narration": "RENT PAYMENT JUN 2024"
+      },
+      {
+        "txnId": "W004-T038",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 2600,
+        "transactionTimestamp": "2024-06-15T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL JUN"
+      },
+      {
+        "txnId": "W004-T039",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7500,
+        "transactionTimestamp": "2024-07-06T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T040",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7800,
+        "transactionTimestamp": "2024-07-13T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T041",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7600,
+        "transactionTimestamp": "2024-07-20T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T042",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 10000,
+        "transactionTimestamp": "2024-07-01T09:00:00",
+        "narration": "RENT PAYMENT JUL 2024"
+      },
+      {
+        "txnId": "W004-T043",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 2000,
+        "transactionTimestamp": "2024-07-15T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL JUL"
+      },
+      {
+        "txnId": "W004-T044",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10000,
+        "transactionTimestamp": "2024-08-02T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T045",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10300,
+        "transactionTimestamp": "2024-08-09T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T046",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10100,
+        "transactionTimestamp": "2024-08-16T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T047",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10400,
+        "transactionTimestamp": "2024-08-23T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T048",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 10000,
+        "transactionTimestamp": "2024-08-01T09:00:00",
+        "narration": "RENT PAYMENT AUG 2024"
+      },
+      {
+        "txnId": "W004-T049",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 2200,
+        "transactionTimestamp": "2024-08-15T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL AUG"
+      },
+      {
+        "txnId": "W004-T050",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10400,
+        "transactionTimestamp": "2024-09-06T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T051",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10700,
+        "transactionTimestamp": "2024-09-13T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T052",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10500,
+        "transactionTimestamp": "2024-09-20T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T053",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10800,
+        "transactionTimestamp": "2024-09-27T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T054",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 10000,
+        "transactionTimestamp": "2024-09-01T09:00:00",
+        "narration": "RENT PAYMENT SEP 2024"
+      },
+      {
+        "txnId": "W004-T055",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 2300,
+        "transactionTimestamp": "2024-09-15T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL SEP"
+      },
+      {
+        "txnId": "W004-T056",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10800,
+        "transactionTimestamp": "2024-10-04T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T057",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 11100,
+        "transactionTimestamp": "2024-10-11T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T058",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 10900,
+        "transactionTimestamp": "2024-10-18T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T059",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 11200,
+        "transactionTimestamp": "2024-10-25T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T060",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 10000,
+        "transactionTimestamp": "2024-10-01T09:00:00",
+        "narration": "RENT PAYMENT OCT 2024"
+      },
+      {
+        "txnId": "W004-T061",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 2400,
+        "transactionTimestamp": "2024-10-15T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL OCT"
+      },
+      {
+        "txnId": "W004-T062",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 11000,
+        "transactionTimestamp": "2024-11-01T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T063",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 11300,
+        "transactionTimestamp": "2024-11-08T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T064",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 11100,
+        "transactionTimestamp": "2024-11-15T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T065",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 11400,
+        "transactionTimestamp": "2024-11-22T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T066",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 10000,
+        "transactionTimestamp": "2024-11-01T09:00:00",
+        "narration": "RENT PAYMENT NOV 2024"
+      },
+      {
+        "txnId": "W004-T067",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 2500,
+        "transactionTimestamp": "2024-11-15T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL NOV"
+      },
+      {
+        "txnId": "W004-T068",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 11400,
+        "transactionTimestamp": "2024-12-06T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T069",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 11700,
+        "transactionTimestamp": "2024-12-13T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T070",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 11500,
+        "transactionTimestamp": "2024-12-20T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T071",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 11800,
+        "transactionTimestamp": "2024-12-27T20:00:00",
+        "narration": "ZOMATO MEDIA PVT LTD"
+      },
+      {
+        "txnId": "W004-T072",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 10000,
+        "transactionTimestamp": "2024-12-01T09:00:00",
+        "narration": "RENT PAYMENT DEC 2024"
+      },
+      {
+        "txnId": "W004-T073",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 2600,
+        "transactionTimestamp": "2024-12-15T10:00:00",
+        "narration": "BESCOM ELECTRICITY BILL DEC"
+      }
+    ]
+  },
+  "recurring_deposit": {
+    "profile": {
+      "name": "Priya Lakshmi",
+      "maskedAccNumber": "XXXX6789",
+      "openingDate": "2021-04-01"
+    },
+    "summary": {
+      "accountType": "RECURRING",
+      "recurringAmount": 1000,
+      "recurringDepositDay": "3",
+      "interestRate": "7.0",
+      "maturityAmount": 15200,
+      "maturityDate": "2025-04-01",
+      "currentValue": 13000,
+      "interestComputation": "COMPOUND",
+      "compoundingFrequency": "QUARTERLY"
+    },
+    "transactions": [
+      {
+        "txnId": "W004-RD001",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 1000,
+        "transactionDateTime": "2024-01-03T09:00:00",
+        "narration": "RD INSTALLMENT JAN 2024"
+      },
+      {
+        "txnId": "W004-RD002",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 1000,
+        "transactionDateTime": "2024-02-03T09:00:00",
+        "narration": "RD INSTALLMENT FEB 2024"
+      },
+      {
+        "txnId": "W004-RD003",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 1000,
+        "transactionDateTime": "2024-03-03T09:00:00",
+        "narration": "RD INSTALLMENT MAR 2024"
+      },
+      {
+        "txnId": "W004-RD004",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 1000,
+        "transactionDateTime": "2024-04-03T09:00:00",
+        "narration": "RD INSTALLMENT APR 2024"
+      },
+      {
+        "txnId": "W004-RD005",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 1000,
+        "transactionDateTime": "2024-05-03T09:00:00",
+        "narration": "RD INSTALLMENT MAY 2024"
+      },
+      {
+        "txnId": "W004-RD006",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 1000,
+        "transactionDateTime": "2024-06-03T09:00:00",
+        "narration": "RD INSTALLMENT JUN 2024"
+      },
+      {
+        "txnId": "W004-RD007",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 1000,
+        "transactionDateTime": "2024-07-03T09:00:00",
+        "narration": "RD INSTALLMENT JUL 2024"
+      },
+      {
+        "txnId": "W004-RD008",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 1000,
+        "transactionDateTime": "2024-08-03T09:00:00",
+        "narration": "RD INSTALLMENT AUG 2024"
+      },
+      {
+        "txnId": "W004-RD009",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 1000,
+        "transactionDateTime": "2024-09-03T09:00:00",
+        "narration": "RD INSTALLMENT SEP 2024"
+      },
+      {
+        "txnId": "W004-RD010",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 1000,
+        "transactionDateTime": "2024-10-03T09:00:00",
+        "narration": "RD INSTALLMENT OCT 2024"
+      },
+      {
+        "txnId": "W004-RD011",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 1000,
+        "transactionDateTime": "2024-11-03T09:00:00",
+        "narration": "RD INSTALLMENT NOV 2024"
+      },
+      {
+        "txnId": "W004-RD012",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 1000,
+        "transactionDateTime": "2024-12-03T09:00:00",
+        "narration": "RD INSTALLMENT DEC 2024"
+      }
+    ]
+  },
+  "insurance_policy": {
+    "profile": {
+      "name": "Priya Lakshmi",
+      "dob": "1992-07-30",
+      "mobile": "9600112233",
+      "pan": "DEFRL2345G",
+      "nominee": "REGISTERED"
+    },
+    "summary": {
+      "policyName": "LIC New Jeevan Anand",
+      "policyNumber": "LIC2021789012",
+      "policyType": "ENDOWMENT",
+      "coverType": "SELF",
+      "premiumAmount": 2400,
+      "premiumFrequency": "YEARLY",
+      "policyStartDate": "2021-04-01",
+      "maturityDate": "2041-04-01",
+      "sumAssured": 500000,
+      "coverAmount": 500000
+    },
+    "transactions": [
+      {
+        "txnId": "W004-INS001",
+        "txnDate": "2024-04-01",
+        "type": "PREMIUM_PAYMENT",
+        "amount": 2400,
+        "narration": "LIC PREMIUM PAYMENT 2024"
+      },
+      {
+        "txnId": "W004-INS002",
+        "txnDate": "2023-04-01",
+        "type": "PREMIUM_PAYMENT",
+        "amount": 2400,
+        "narration": "LIC PREMIUM PAYMENT 2023"
+      }
+    ]
+  },
+  "nbcfdc_history": {
+    "previous_loan_amount": 75000,
+    "loan_purpose": "vehicle",
+    "tenure_months": 18,
+    "repayment_status": "COMPLETED",
+    "on_time_payments": 18,
+    "late_payments": 0,
+    "missed_payments": 0,
+    "repeat_borrower": true
+  },
+  "platform_data": {
+    "platform": "Zomato",
+    "monthly_earnings": [
+      {
+        "month": "Jan-24",
+        "amount": 37600
+      },
+      {
+        "month": "Feb-24",
+        "amount": 38400
+      },
+      {
+        "month": "Mar-24",
+        "amount": 40000
+      },
+      {
+        "month": "Apr-24",
+        "amount": 40800
+      },
+      {
+        "month": "May-24",
+        "amount": 41600
+      },
+      {
+        "month": "Jun-24",
+        "amount": 40000
+      },
+      {
+        "month": "Jul-24",
+        "amount": 22900
+      },
+      {
+        "month": "Aug-24",
+        "amount": 40800
+      },
+      {
+        "month": "Sep-24",
+        "amount": 42400
+      },
+      {
+        "month": "Oct-24",
+        "amount": 44000
+      },
+      {
+        "month": "Nov-24",
+        "amount": 44800
+      },
+      {
+        "month": "Dec-24",
+        "amount": 46400
+      }
+    ],
+    "rating": 4.9,
+    "total_deliveries": 6800,
+    "cancellation_rate": 0.01,
+    "active_days_per_month": 26
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "worker_id": "W005",
+  "worker_name": "Suresh Babu",
+  "platform": "Swiggy",
+  "credis_score": 93.5,
+  "risk_band": "LOW_RISK_HIGH_NEED",
+  "band_label": "Low Risk \u2014 High Need",
+  "loan_decision": "APPROVE_FAST",
+  "max_loan": 300000,
+  "approval_days": 1,
+  "avg_monthly_income": 36741.666666666664,
+  "top3_lenders": [
+    {
+      "lender_id": "L001",
+      "lender_name": "NBCFDC",
+      "lender_full_name": "National Backward Classes Finance and Development Corporation",
+      "lender_type": "government",
+      "scheme_name": "Term Loan for OBC / SC / ST Beneficiaries",
+      "eligibility": {
+        "min_credis_score": 70,
+        "min_monthly_income": 8000,
+        "max_annual_family_income": 300000,
+        "ckyc_required": true,
+        "target_category": [
+          "OBC",
+          "SC",
+          "ST",
+          "EWS"
+        ],
+        "age_min": 18,
+        "age_max": 55
+      },
+      "loan_details": {
+        "min_amount": 50000,
+        "max_amount": 300000,
+        "currency": "INR",
+        "interest_rate_percent": 8.0,
+        "tenure_months_min": 12,
+        "tenure_months_max": 60,
+        "processing_fee_percent": 0.5,
+        "collateral_required": false,
+        "loan_purpose": [
+          "business",
+          "vehicle",
+          "education",
+          "housing"
+        ]
+      },
+      "process": {
+        "approval_time_days": 7,
+        "disbursement_mode": "BANK_TRANSFER",
+        "repayment_mode": "EMI",
+        "prepayment_allowed": true,
+        "apply_mode": "OFFLINE_CHANNEL_PARTNER"
+      },
+      "contact": {
+        "website": "www.nbcfdc.gov.in",
+        "helpline": "011-26174968"
+      }
+    },
+    {
+      "lender_id": "L002",
+      "lender_name": "PM SVANidhi",
+      "lender_full_name": "PM Street Vendor's AtmaNirbhar Nidhi",
+      "lender_type": "government",
+      "scheme_name": "Working Capital Loan for Street Vendors",
+      "eligibility": {
+        "min_credis_score": 40,
+        "min_monthly_income": 2000,
+        "max_annual_family_income": 500000,
+        "ckyc_required": false,
+        "target_category": [
+          "street_vendor",
+          "gig_worker",
+          "informal_worker"
+        ],
+        "age_min": 18,
+        "age_max": 65
+      },
+      "loan_details": {
+        "min_amount": 10000,
+        "max_amount": 50000,
+        "currency": "INR",
+        "interest_rate_percent": 7.0,
+        "tenure_months_min": 12,
+        "tenure_months_max": 18,
+        "processing_fee_percent": 0.0,
+        "collateral_required": false,
+        "loan_purpose": [
+          "working_capital",
+          "business"
+        ]
+      },
+      "process": {
+        "approval_time_days": 3,
+        "disbursement_mode": "BANK_TRANSFER",
+        "repayment_mode": "EMI",
+        "prepayment_allowed": true,
+        "apply_mode": "ONLINE_APP"
+      },
+      "contact": {
+        "website": "www.pmsvanidhi.mohua.gov.in",
+        "helpline": "1800-11-1979"
+      }
+    },
+    {
+      "lender_id": "L003",
+      "lender_name": "MUDRA Shishu",
+      "lender_full_name": "Pradhan Mantri MUDRA Yojana \u00e2\u20ac\u201d Shishu Category",
+      "lender_type": "government",
+      "scheme_name": "MUDRA Shishu Loan for Micro Enterprises",
+      "eligibility": {
+        "min_credis_score": 45,
+        "min_monthly_income": 3000,
+        "max_annual_family_income": 600000,
+        "ckyc_required": false,
+        "target_category": [
+          "micro_enterprise",
+          "gig_worker",
+          "self_employed"
+        ],
+        "age_min": 18,
+        "age_max": 65
+      },
+      "loan_details": {
+        "min_amount": 10000,
+        "max_amount": 50000,
+        "currency": "INR",
+        "interest_rate_percent": 10.0,
+        "tenure_months_min": 12,
+        "tenure_months_max": 36,
+        "processing_fee_percent": 0.0,
+        "collateral_required": false,
+        "loan_purpose": [
+          "business",
+          "equipment",
+          "working_capital"
+        ]
+      },
+      "process": {
+        "approval_time_days": 7,
+        "disbursement_mode": "BANK_TRANSFER",
+        "repayment_mode": "EMI",
+        "prepayment_allowed": true,
+        "apply_mode": "BANK_BRANCH"
+      },
+      "contact": {
+        "website": "www.mudra.org.in",
+        "helpline": "1800-180-1111"
+      }
+    }
+  ],
+  "total_eligible_lenders": 8,
+  "score_breakdown": {
+    "income_stability": 80,
+    "platform_reliability": 92.0,
+    "work_consistency": 100,
+    "spending_discipline": 100,
+    "income_growth": 35
+  },
+  "growth_roadmap": "# FINANCIAL GROWTH ROADMAP FOR SURESH BABU\n**Swiggy Partner | CREDIS Score: 93.5 | Risk: Low | Current Income: Rs.36,742/month**\n\n---\n\n## MONTHS 1-3 (Foundation)\n\n**Action 1: Secure Insurance Coverage Immediately**\n- Purchase term life insurance (minimum Rs.25-30 lakh coverage)\n- Get health insurance (Rs.5 lakh family floater minimum)\n- Estimated cost: Rs.1,500-2,000/month\n- *Rationale: Zero insurance is critical vulnerability despite good score*\n\n**Action 2: Strategic Use of Recommended Loan**\n- Activate the NBCFDC Rs.300,000 loan at 8.0% interest\n- Allocate Rs.200,000 for **asset upgrade**: New battery-efficient e-bike/scooter\n- Use remaining Rs.100,000 for **emergency fund buffer**\n- EMI will be ~Rs.26,000/month for 12 months (manageable given income stability)\n\n**Action 3: Implement Income Tracking System**\n- Track daily deliveries, peak hours, and earnings patterns\n- Identify most profitable zones/time slots (via Swiggy partner app analytics)\n- Set weekly income targets and monitor variance\n- Build 3-month baseline data to optimize working strategy\n\n---\n\n## MONTHS 4-6 (Growth)\n\n**Action 1: Optimize Delivery Operations**\n- Analyze 3-month data to focus on top 20% profitable zones\n- Extend peak hour availability by 2 hours daily\n- Target increase in daily orders by 15-20%\n- *Expected income boost: Rs.4,000-6,000/month*\n\n**Action 2: Introduce Multiple Platform Strategy**\n- Register on Zomato (if not already) to increase order density\n- Cross-platform optimization during overlapping peak hours\n- Aim for 70-30 or 60-40 split between platforms\n\n**Action 3: Systematic Savings Enhancement**\n- Increase RD from Rs.800 to Rs.2,000/month\n- Open a separate high-yield savings account (6-7% interest)\n- Set up automatic sweep-in of Rs.3,000/month to savings from income\n\n---\n\n## MONTHS 7-9 (Expansion)\n\n**Action 1: Upskill for Premium Opportunities**\n- Complete Swiggy partner training for high-value orders (Gold/Silver certified)\n- Obtain special certifications: Swiggy Genie/Swiggy Stores access\n- Target premium orders (higher tips, shorter distances)\n\n**Action 2: Build Passive Income Streams**\n- Consider sub-leasing vehicle during off-peak hours (8-10 hours of premium availability)\n- Invest RD matured amount + savings into low-risk mutual fund SIP (Rs.3,000/month)\n- Explore referral bonuses for new partner onboarding\n\n**Action 3: Debt Management & Credit Building**\n- Pay off NBCFDC loan ahead of schedule (if surplus available)\n- Ensure 100% on-time payments to boost CREDIS score\n- Maintain credit utilization below 30% on any existing cards\n\n---\n\n## MONTHS 10-12 (Consolidation)\n\n**Action 1: Portfolio Diversification**\n- Evaluate investment options for accumulated savings (~Rs.40,000-50,000)\n- Consider fixed deposits + balanced mutual fund portfolio\n- Maintain emergency fund of 3 months' expenses (~Rs.90,000)\n\n**Action 2: Asset Evaluation & Upgrade Planning**\n- Assess vehicle condition; plan next upgrade cycle\n- Explore battery swapping membership for reduced costs\n- Negotiate better terms with platform partners based on performance history\n\n**Action 3: Long-term Goal Setting**\n- Review year performance and set 2-year financial goals\n- Plan for additional income sources: grocery delivery, logistics partnerships\n- Consider family financial goals (children's education, home purchase planning)\n\n---\n\n## YEAR END TARGET\n\n**Expected Income:** Rs.43,000-45,000/month\n- *Growth of ~17-22% from current Rs.36,742*\n- *Reversal of -0.9% decline through strategic optimization*\n\n**Savings Target:** Rs.60,000-70,000 total accumulated\n- RD: Rs.24,000 (Rs.2,000 \u00d7 12 months)\n- Emergency/Savings: Rs.36,000-46,000\n- Investment returns: Additional growth of Rs.4,000-6,000\n\n**CREDIS Score Target:** 96-98/100\n- Insurance coverage: +1 point\n- Consistent loan repayment: +2-3 points\n- Income growth trajectory: +1-2 points\n- Diversified income sources: +1 point\n\n---\n\n### KEY SUCCESS METRICS TO TRACK:\n| Metric | Current | Target (",
+  "additional_metrics": {
+    "income_cv": 0.1551847803864426,
+    "growth_pct": -0.8581752484191444,
+    "active_months": 12,
+    "rent_payments_count": 12,
+    "h1_avg": 36900,
+    "h2_avg": 36583.333333333336,
+    "min_income": 19900,
+    "max_income": 42400,
+    "rating": 4.7,
+    "cancellation_rate": 0.02,
+    "active_days_per_month": 25,
+    "has_rd": true,
+    "rd_amount": 800,
+    "rd_months_paid": 12,
+    "has_insurance": false,
+    "insurance_premium": 0,
+    "ckyc": true,
+    "current_balance": 18500.0,
+    "nbcfdc_history": {
+      "previous_loan_amount": 60000,
+      "loan_purpose": "business",
+      "tenure_months": 24,
+      "repayment_status": "ONGOING",
+      "on_time_payments": 20,
+      "late_payments": 1,
+      "missed_payments": 0,
+      "repeat_borrower": false
+    }
+  }
+}

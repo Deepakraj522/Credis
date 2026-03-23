@@ -1,0 +1,838 @@
+{
+  "worker_id": "W001",
+  "worker_type": "gig_worker",
+  "deposit_account": {
+    "profile": {
+      "name": "Ravi Kumar",
+      "dob": "1990-05-14",
+      "mobile": "9876543210",
+      "pan": "ABCPK1234D",
+      "email": "ravi.kumar@gmail.com",
+      "ckycCompliance": true,
+      "maskedAccNumber": "XXXX1234",
+      "branch": "Chennai Anna Nagar",
+      "ifscCode": "SBIN0001234",
+      "openingDate": "2019-03-01",
+      "status": "ACTIVE",
+      "type": "SAVINGS"
+    },
+    "summary": {
+      "currentBalance": 14200.0,
+      "currency": "INR"
+    },
+    "transactions": [
+      {
+        "txnId": "W001-T001",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7000,
+        "transactionTimestamp": "2024-01-05T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T002",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7200,
+        "transactionTimestamp": "2024-01-13T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T003",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 6900,
+        "transactionTimestamp": "2024-01-20T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T004",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 6900,
+        "transactionTimestamp": "2024-01-27T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T005",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 7500,
+        "transactionTimestamp": "2024-01-01T09:00:00",
+        "narration": "RENT PAYMENT JAN 2024"
+      },
+      {
+        "txnId": "W001-T006",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 1850,
+        "transactionTimestamp": "2024-01-15T10:00:00",
+        "narration": "TNEB ELECTRICITY BILL JAN"
+      },
+      {
+        "txnId": "W001-T007",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 299,
+        "transactionTimestamp": "2024-01-20T09:00:00",
+        "narration": "AIRTEL PREPAID RECHARGE"
+      },
+      {
+        "txnId": "W001-T008",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7100,
+        "transactionTimestamp": "2024-02-03T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T009",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7300,
+        "transactionTimestamp": "2024-02-10T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T010",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7000,
+        "transactionTimestamp": "2024-02-17T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T011",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7100,
+        "transactionTimestamp": "2024-02-24T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T012",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 7500,
+        "transactionTimestamp": "2024-02-01T09:00:00",
+        "narration": "RENT PAYMENT FEB 2024"
+      },
+      {
+        "txnId": "W001-T013",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 1800,
+        "transactionTimestamp": "2024-02-15T10:00:00",
+        "narration": "TNEB ELECTRICITY BILL FEB"
+      },
+      {
+        "txnId": "W001-T014",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 299,
+        "transactionTimestamp": "2024-02-20T09:00:00",
+        "narration": "AIRTEL PREPAID RECHARGE"
+      },
+      {
+        "txnId": "W001-T015",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7300,
+        "transactionTimestamp": "2024-03-02T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T016",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7500,
+        "transactionTimestamp": "2024-03-09T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T017",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7400,
+        "transactionTimestamp": "2024-03-16T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T018",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7600,
+        "transactionTimestamp": "2024-03-23T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T019",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 7500,
+        "transactionTimestamp": "2024-03-01T09:00:00",
+        "narration": "RENT PAYMENT MAR 2024"
+      },
+      {
+        "txnId": "W001-T020",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 1900,
+        "transactionTimestamp": "2024-03-15T10:00:00",
+        "narration": "TNEB ELECTRICITY BILL MAR"
+      },
+      {
+        "txnId": "W001-T021",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7400,
+        "transactionTimestamp": "2024-04-05T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T022",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7700,
+        "transactionTimestamp": "2024-04-12T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T023",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7500,
+        "transactionTimestamp": "2024-04-19T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T024",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7700,
+        "transactionTimestamp": "2024-04-26T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T025",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 7500,
+        "transactionTimestamp": "2024-04-01T09:00:00",
+        "narration": "RENT PAYMENT APR 2024"
+      },
+      {
+        "txnId": "W001-T026",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 1750,
+        "transactionTimestamp": "2024-04-15T10:00:00",
+        "narration": "TNEB ELECTRICITY BILL APR"
+      },
+      {
+        "txnId": "W001-T027",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7900,
+        "transactionTimestamp": "2024-05-04T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T028",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 8000,
+        "transactionTimestamp": "2024-05-11T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T029",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7900,
+        "transactionTimestamp": "2024-05-18T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T030",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 8100,
+        "transactionTimestamp": "2024-05-25T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T031",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 7500,
+        "transactionTimestamp": "2024-05-01T09:00:00",
+        "narration": "RENT PAYMENT MAY 2024"
+      },
+      {
+        "txnId": "W001-T032",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 2100,
+        "transactionTimestamp": "2024-05-15T10:00:00",
+        "narration": "TNEB ELECTRICITY BILL MAY"
+      },
+      {
+        "txnId": "W001-T033",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7600,
+        "transactionTimestamp": "2024-06-07T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T034",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7800,
+        "transactionTimestamp": "2024-06-14T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T035",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7600,
+        "transactionTimestamp": "2024-06-21T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T036",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7700,
+        "transactionTimestamp": "2024-06-28T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T037",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 7500,
+        "transactionTimestamp": "2024-06-01T09:00:00",
+        "narration": "RENT PAYMENT JUN 2024"
+      },
+      {
+        "txnId": "W001-T038",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 2200,
+        "transactionTimestamp": "2024-06-15T10:00:00",
+        "narration": "TNEB ELECTRICITY BILL JUN"
+      },
+      {
+        "txnId": "W001-T039",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 5200,
+        "transactionTimestamp": "2024-07-06T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T040",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 5500,
+        "transactionTimestamp": "2024-07-13T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T041",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 5300,
+        "transactionTimestamp": "2024-07-20T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T042",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 5400,
+        "transactionTimestamp": "2024-07-27T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T043",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 7500,
+        "transactionTimestamp": "2024-07-01T09:00:00",
+        "narration": "RENT PAYMENT JUL 2024"
+      },
+      {
+        "txnId": "W001-T044",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 1600,
+        "transactionTimestamp": "2024-07-15T10:00:00",
+        "narration": "TNEB ELECTRICITY BILL JUL"
+      },
+      {
+        "txnId": "W001-T045",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7200,
+        "transactionTimestamp": "2024-08-03T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T046",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7400,
+        "transactionTimestamp": "2024-08-10T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T047",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7300,
+        "transactionTimestamp": "2024-08-17T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T048",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7500,
+        "transactionTimestamp": "2024-08-24T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T049",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 7500,
+        "transactionTimestamp": "2024-08-01T09:00:00",
+        "narration": "RENT PAYMENT AUG 2024"
+      },
+      {
+        "txnId": "W001-T050",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 1850,
+        "transactionTimestamp": "2024-08-15T10:00:00",
+        "narration": "TNEB ELECTRICITY BILL AUG"
+      },
+      {
+        "txnId": "W001-T051",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7600,
+        "transactionTimestamp": "2024-09-07T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T052",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7800,
+        "transactionTimestamp": "2024-09-14T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T053",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7700,
+        "transactionTimestamp": "2024-09-21T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T054",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 7900,
+        "transactionTimestamp": "2024-09-28T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T055",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 7500,
+        "transactionTimestamp": "2024-09-01T09:00:00",
+        "narration": "RENT PAYMENT SEP 2024"
+      },
+      {
+        "txnId": "W001-T056",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 1800,
+        "transactionTimestamp": "2024-09-15T10:00:00",
+        "narration": "TNEB ELECTRICITY BILL SEP"
+      },
+      {
+        "txnId": "W001-T057",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 8000,
+        "transactionTimestamp": "2024-10-05T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T058",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 8200,
+        "transactionTimestamp": "2024-10-12T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T059",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 8100,
+        "transactionTimestamp": "2024-10-19T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T060",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 8300,
+        "transactionTimestamp": "2024-10-26T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T061",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 7500,
+        "transactionTimestamp": "2024-10-01T09:00:00",
+        "narration": "RENT PAYMENT OCT 2024"
+      },
+      {
+        "txnId": "W001-T062",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 1900,
+        "transactionTimestamp": "2024-10-15T10:00:00",
+        "narration": "TNEB ELECTRICITY BILL OCT"
+      },
+      {
+        "txnId": "W001-T063",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 8100,
+        "transactionTimestamp": "2024-11-02T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T064",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 8300,
+        "transactionTimestamp": "2024-11-09T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T065",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 8200,
+        "transactionTimestamp": "2024-11-16T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T066",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 8400,
+        "transactionTimestamp": "2024-11-23T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T067",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 7500,
+        "transactionTimestamp": "2024-11-01T09:00:00",
+        "narration": "RENT PAYMENT NOV 2024"
+      },
+      {
+        "txnId": "W001-T068",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 1950,
+        "transactionTimestamp": "2024-11-15T10:00:00",
+        "narration": "TNEB ELECTRICITY BILL NOV"
+      },
+      {
+        "txnId": "W001-T069",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 8400,
+        "transactionTimestamp": "2024-12-07T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T070",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 8600,
+        "transactionTimestamp": "2024-12-14T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T071",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 8500,
+        "transactionTimestamp": "2024-12-21T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T072",
+        "type": "CREDIT",
+        "mode": "UPI",
+        "amount": 8700,
+        "transactionTimestamp": "2024-12-28T18:00:00",
+        "narration": "SWIGGY TECHNOLOGIES PVT LTD"
+      },
+      {
+        "txnId": "W001-T073",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 7500,
+        "transactionTimestamp": "2024-12-01T09:00:00",
+        "narration": "RENT PAYMENT DEC 2024"
+      },
+      {
+        "txnId": "W001-T074",
+        "type": "DEBIT",
+        "mode": "UPI",
+        "amount": 2000,
+        "transactionTimestamp": "2024-12-15T10:00:00",
+        "narration": "TNEB ELECTRICITY BILL DEC"
+      }
+    ]
+  },
+  "recurring_deposit": {
+    "profile": {
+      "name": "Ravi Kumar",
+      "maskedAccNumber": "XXXX5678",
+      "openingDate": "2022-06-01"
+    },
+    "summary": {
+      "accountType": "RECURRING",
+      "recurringAmount": 500,
+      "recurringDepositDay": "5",
+      "interestRate": "6.5",
+      "maturityAmount": 7800,
+      "maturityDate": "2025-06-01",
+      "currentValue": 6500,
+      "interestComputation": "COMPOUND",
+      "compoundingFrequency": "QUARTERLY"
+    },
+    "transactions": [
+      {
+        "txnId": "W001-RD001",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 500,
+        "transactionDateTime": "2024-01-05T09:00:00",
+        "narration": "RD INSTALLMENT JAN 2024"
+      },
+      {
+        "txnId": "W001-RD002",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 500,
+        "transactionDateTime": "2024-02-05T09:00:00",
+        "narration": "RD INSTALLMENT FEB 2024"
+      },
+      {
+        "txnId": "W001-RD003",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 500,
+        "transactionDateTime": "2024-03-05T09:00:00",
+        "narration": "RD INSTALLMENT MAR 2024"
+      },
+      {
+        "txnId": "W001-RD004",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 500,
+        "transactionDateTime": "2024-04-05T09:00:00",
+        "narration": "RD INSTALLMENT APR 2024"
+      },
+      {
+        "txnId": "W001-RD005",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 500,
+        "transactionDateTime": "2024-05-05T09:00:00",
+        "narration": "RD INSTALLMENT MAY 2024"
+      },
+      {
+        "txnId": "W001-RD006",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 500,
+        "transactionDateTime": "2024-06-05T09:00:00",
+        "narration": "RD INSTALLMENT JUN 2024"
+      },
+      {
+        "txnId": "W001-RD007",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 500,
+        "transactionDateTime": "2024-07-05T09:00:00",
+        "narration": "RD INSTALLMENT JUL 2024"
+      },
+      {
+        "txnId": "W001-RD008",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 500,
+        "transactionDateTime": "2024-08-05T09:00:00",
+        "narration": "RD INSTALLMENT AUG 2024"
+      },
+      {
+        "txnId": "W001-RD009",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 500,
+        "transactionDateTime": "2024-09-05T09:00:00",
+        "narration": "RD INSTALLMENT SEP 2024"
+      },
+      {
+        "txnId": "W001-RD010",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 500,
+        "transactionDateTime": "2024-10-05T09:00:00",
+        "narration": "RD INSTALLMENT OCT 2024"
+      },
+      {
+        "txnId": "W001-RD011",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 500,
+        "transactionDateTime": "2024-11-05T09:00:00",
+        "narration": "RD INSTALLMENT NOV 2024"
+      },
+      {
+        "txnId": "W001-RD012",
+        "type": "INSTALLMENT",
+        "mode": "UPI",
+        "amount": 500,
+        "transactionDateTime": "2024-12-05T09:00:00",
+        "narration": "RD INSTALLMENT DEC 2024"
+      }
+    ]
+  },
+  "insurance_policy": {
+    "profile": {
+      "name": "Ravi Kumar",
+      "dob": "1990-05-14",
+      "mobile": "9876543210",
+      "pan": "ABCPK1234D",
+      "nominee": "REGISTERED"
+    },
+    "summary": {
+      "policyName": "LIC Jeevan Anand",
+      "policyNumber": "LIC2019123456",
+      "policyType": "ENDOWMENT",
+      "coverType": "SELF",
+      "premiumAmount": 1200,
+      "premiumFrequency": "YEARLY",
+      "policyStartDate": "2019-06-01",
+      "maturityDate": "2039-06-01",
+      "sumAssured": 300000,
+      "coverAmount": 300000
+    },
+    "transactions": [
+      {
+        "txnId": "W001-INS001",
+        "txnDate": "2024-06-01",
+        "type": "PREMIUM_PAYMENT",
+        "amount": 1200,
+        "narration": "LIC PREMIUM PAYMENT 2024"
+      },
+      {
+        "txnId": "W001-INS002",
+        "txnDate": "2023-06-01",
+        "type": "PREMIUM_PAYMENT",
+        "amount": 1200,
+        "narration": "LIC PREMIUM PAYMENT 2023"
+      }
+    ]
+  },
+  "nbcfdc_history": {
+    "previous_loan_amount": 50000,
+    "loan_purpose": "business",
+    "tenure_months": 12,
+    "repayment_status": "COMPLETED",
+    "on_time_payments": 11,
+    "late_payments": 1,
+    "missed_payments": 0,
+    "repeat_borrower": true
+  },
+  "platform_data": {
+    "platform": "Swiggy",
+    "monthly_earnings": [
+      {
+        "month": "Jan-24",
+        "amount": 28000
+      },
+      {
+        "month": "Feb-24",
+        "amount": 28500
+      },
+      {
+        "month": "Mar-24",
+        "amount": 29800
+      },
+      {
+        "month": "Apr-24",
+        "amount": 30300
+      },
+      {
+        "month": "May-24",
+        "amount": 31900
+      },
+      {
+        "month": "Jun-24",
+        "amount": 30700
+      },
+      {
+        "month": "Jul-24",
+        "amount": 21400
+      },
+      {
+        "month": "Aug-24",
+        "amount": 29400
+      },
+      {
+        "month": "Sep-24",
+        "amount": 31000
+      },
+      {
+        "month": "Oct-24",
+        "amount": 32600
+      },
+      {
+        "month": "Nov-24",
+        "amount": 33000
+      },
+      {
+        "month": "Dec-24",
+        "amount": 34200
+      }
+    ],
+    "rating": 4.8,
+    "total_deliveries": 4200,
+    "cancellation_rate": 0.02,
+    "active_days_per_month": 24
+  }
+}

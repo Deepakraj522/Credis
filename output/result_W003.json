@@ -1,0 +1,182 @@
+{
+  "worker_id": "W003",
+  "worker_name": "Arjun Das",
+  "platform": "Uber",
+  "credis_score": 60.2,
+  "risk_band": "LOW_RISK_LOW_NEED",
+  "band_label": "Low Risk \u2014 Low Need",
+  "loan_decision": "APPROVE_STANDARD",
+  "max_loan": 150000,
+  "approval_days": 7,
+  "avg_monthly_income": 5733.333333333333,
+  "top3_lenders": [
+    {
+      "lender_id": "L002",
+      "lender_name": "PM SVANidhi",
+      "lender_full_name": "PM Street Vendor's AtmaNirbhar Nidhi",
+      "lender_type": "government",
+      "scheme_name": "Working Capital Loan for Street Vendors",
+      "eligibility": {
+        "min_credis_score": 40,
+        "min_monthly_income": 2000,
+        "max_annual_family_income": 500000,
+        "ckyc_required": false,
+        "target_category": [
+          "street_vendor",
+          "gig_worker",
+          "informal_worker"
+        ],
+        "age_min": 18,
+        "age_max": 65
+      },
+      "loan_details": {
+        "min_amount": 10000,
+        "max_amount": 50000,
+        "currency": "INR",
+        "interest_rate_percent": 7.0,
+        "tenure_months_min": 12,
+        "tenure_months_max": 18,
+        "processing_fee_percent": 0.0,
+        "collateral_required": false,
+        "loan_purpose": [
+          "working_capital",
+          "business"
+        ]
+      },
+      "process": {
+        "approval_time_days": 3,
+        "disbursement_mode": "BANK_TRANSFER",
+        "repayment_mode": "EMI",
+        "prepayment_allowed": true,
+        "apply_mode": "ONLINE_APP"
+      },
+      "contact": {
+        "website": "www.pmsvanidhi.mohua.gov.in",
+        "helpline": "1800-11-1979"
+      }
+    },
+    {
+      "lender_id": "L003",
+      "lender_name": "MUDRA Shishu",
+      "lender_full_name": "Pradhan Mantri MUDRA Yojana \u00e2\u20ac\u201d Shishu Category",
+      "lender_type": "government",
+      "scheme_name": "MUDRA Shishu Loan for Micro Enterprises",
+      "eligibility": {
+        "min_credis_score": 45,
+        "min_monthly_income": 3000,
+        "max_annual_family_income": 600000,
+        "ckyc_required": false,
+        "target_category": [
+          "micro_enterprise",
+          "gig_worker",
+          "self_employed"
+        ],
+        "age_min": 18,
+        "age_max": 65
+      },
+      "loan_details": {
+        "min_amount": 10000,
+        "max_amount": 50000,
+        "currency": "INR",
+        "interest_rate_percent": 10.0,
+        "tenure_months_min": 12,
+        "tenure_months_max": 36,
+        "processing_fee_percent": 0.0,
+        "collateral_required": false,
+        "loan_purpose": [
+          "business",
+          "equipment",
+          "working_capital"
+        ]
+      },
+      "process": {
+        "approval_time_days": 7,
+        "disbursement_mode": "BANK_TRANSFER",
+        "repayment_mode": "EMI",
+        "prepayment_allowed": true,
+        "apply_mode": "BANK_BRANCH"
+      },
+      "contact": {
+        "website": "www.mudra.org.in",
+        "helpline": "1800-180-1111"
+      }
+    },
+    {
+      "lender_id": "L006",
+      "lender_name": "Arohan Financial Services",
+      "lender_full_name": "Arohan Financial Services Ltd \u00e2\u20ac\u201d Microfinance",
+      "lender_type": "microfinance_institution",
+      "scheme_name": "Income Generation Loan for Low Income Workers",
+      "eligibility": {
+        "min_credis_score": 45,
+        "min_monthly_income": 3000,
+        "max_annual_family_income": 300000,
+        "ckyc_required": false,
+        "target_category": [
+          "gig_worker",
+          "daily_wage",
+          "informal_worker",
+          "women_workers"
+        ],
+        "age_min": 18,
+        "age_max": 55
+      },
+      "loan_details": {
+        "min_amount": 10000,
+        "max_amount": 100000,
+        "currency": "INR",
+        "interest_rate_percent": 22.0,
+        "tenure_months_min": 12,
+        "tenure_months_max": 24,
+        "processing_fee_percent": 1.0,
+        "collateral_required": false,
+        "loan_purpose": [
+          "income_generation",
+          "business",
+          "working_capital"
+        ]
+      },
+      "process": {
+        "approval_time_days": 3,
+        "disbursement_mode": "BANK_TRANSFER",
+        "repayment_mode": "WEEKLY_OR_MONTHLY_EMI",
+        "prepayment_allowed": false,
+        "apply_mode": "FIELD_OFFICER_VISIT"
+      },
+      "contact": {
+        "website": "www.arohan.in",
+        "helpline": "1800-103-0304"
+      }
+    }
+  ],
+  "total_eligible_lenders": 4,
+  "score_breakdown": {
+    "income_stability": 60,
+    "platform_reliability": 45.0,
+    "work_consistency": 80,
+    "spending_discipline": 100,
+    "income_growth": 100
+  },
+  "growth_roadmap": "# Personalized 12-Month Financial Growth Roadmap\n## For: Arjun Das | Uber Platform Worker | CREDIS Score: 60.2/100\n\n---\n\n**CURRENT SNAPSHOT:**\n- Monthly Income: Rs.5,733\n- Risk Profile: Low Risk \u2014 Low Need (Positive!)\n- Growth Rate: 13.7% (Strong momentum)\n- Credit Products: None (No RD, No Insurance)\n- Loan Eligibility: Rs.150,000 @ 7.0% (PM SVANidhi)\n\n---\n\n## MONTHS 1-3 (Foundation):\n\n**- Action 1**\nOpen a Recurring Deposit (RD) account with Rs.500/month (8.7% of income). Start building systematic savings habit while maintaining liquidity.\n\n**- Action 2**\nEnroll in a basic health insurance plan (Rs.2,000-3,000/year premium). Protect against medical emergencies that could derail your steady income growth.\n\n**- Action 3**\nMaintain consistent Uber work hours (aim for 8-10 hours/day, 6 days/week) to sustain the 13.7% income growth trajectory and potentially accelerate it.\n\n---\n\n## MONTHS 4-6 (Growth):\n\n**- Action 1**\nApply for PM SVANidhi loan of Rs.50,000 (1st tranche) at 7.0% interest. Use Rs.30,000 for vehicle maintenance/upgrade and Rs.20,000 as emergency fund buffer.\n\n**- Action 2**\nIncrease RD contribution to Rs.800/month as income grows. This still keeps you at <15% of income while building a stronger savings corpus.\n\n**- Action 3**\nTake advantage of Uber's peak hours and surge pricing systematically. Track which 3-hour blocks yield highest earnings and prioritize those slots.\n\n---\n\n## MONTHS 7-9 (Expansion):\n\n**- Action 1**\nApply for 2nd tranche of PM SVANidhi (additional Rs.50,000) if first tranche is repaid on time. Use for vehicle upgrade to improve per-ride earnings potential.\n\n**- Action 2**\nStart a small systematic investment plan (SIP) of Rs.500/month in a low-risk debt mutual fund. Diversify beyond just traditional savings.\n\n**- Action 3**\nLeverage Uber's incentive programs and referral bonuses actively. Aim for at least one new driver referral per month for additional income streams.\n\n---\n\n## MONTHS 10-12 (Consolidation):\n\n**- Action 1**\nReview and optimize all financial products. If RD and SIP are performing well, consider increasing SIP allocation by Rs.200/month.\n\n**- Action 2**\nBuild liquid emergency fund equivalent to 3 months of expenses (target: Rs.15,000-18,000). Use loan balance or savings strategically to reach this milestone.\n\n**- Action 3**\nPlan for vehicle servicing and major expenses for the upcoming year. Use accumulated savings rather than borrowing to avoid debt cycle.\n\n---\n\n## YEAR END TARGET:\n\n**- Expected Income:** Rs.8,500-9,000/month (sustaining 13.7% growth rate with potential acceleration from vehicle upgrade and optimized work patterns)\n\n**- Savings Target:** Rs.18,000-20,000 (combining RD + SIP returns. This represents ~33% of final month's income as accumulated savings)\n\n**- CREDIS Score Target:** 70-75/100 (improvement through consistent loan repayment, regular savings, insurance coverage, and stable income pattern)\n\n---\n\n**NOTE:** Your low-risk profile and positive income growth are strong foundations. The key is building protection (insurance) and systematic savings while strategically leveraging the affordable credit option (PM SVANidhi) for asset (vehicle) enhancement that boosts earning capacity.",
+  "additional_metrics": {
+    "income_cv": 0.28730579303734505,
+    "growth_pct": 13.664596273291918,
+    "active_months": 11,
+    "rent_payments_count": 12,
+    "h1_avg": 5366.666666666667,
+    "h2_avg": 6100,
+    "min_income": 2900,
+    "max_income": 7800,
+    "rating": 4.2,
+    "cancellation_rate": 0.09,
+    "active_days_per_month": 14,
+    "has_rd": false,
+    "rd_amount": 0,
+    "rd_months_paid": 0,
+    "has_insurance": false,
+    "insurance_premium": 0,
+    "ckyc": false,
+    "current_balance": 3200.0,
+    "nbcfdc_history": null
+  }
+}

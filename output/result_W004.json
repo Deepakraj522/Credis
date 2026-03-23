@@ -1,0 +1,192 @@
+{
+  "worker_id": "W004",
+  "worker_name": "Priya Lakshmi",
+  "platform": "Zomato",
+  "credis_score": 100,
+  "risk_band": "LOW_RISK_HIGH_NEED",
+  "band_label": "Low Risk \u2014 High Need",
+  "loan_decision": "APPROVE_FAST",
+  "max_loan": 300000,
+  "approval_days": 1,
+  "avg_monthly_income": 39975,
+  "top3_lenders": [
+    {
+      "lender_id": "L001",
+      "lender_name": "NBCFDC",
+      "lender_full_name": "National Backward Classes Finance and Development Corporation",
+      "lender_type": "government",
+      "scheme_name": "Term Loan for OBC / SC / ST Beneficiaries",
+      "eligibility": {
+        "min_credis_score": 70,
+        "min_monthly_income": 8000,
+        "max_annual_family_income": 300000,
+        "ckyc_required": true,
+        "target_category": [
+          "OBC",
+          "SC",
+          "ST",
+          "EWS"
+        ],
+        "age_min": 18,
+        "age_max": 55
+      },
+      "loan_details": {
+        "min_amount": 50000,
+        "max_amount": 300000,
+        "currency": "INR",
+        "interest_rate_percent": 8.0,
+        "tenure_months_min": 12,
+        "tenure_months_max": 60,
+        "processing_fee_percent": 0.5,
+        "collateral_required": false,
+        "loan_purpose": [
+          "business",
+          "vehicle",
+          "education",
+          "housing"
+        ]
+      },
+      "process": {
+        "approval_time_days": 7,
+        "disbursement_mode": "BANK_TRANSFER",
+        "repayment_mode": "EMI",
+        "prepayment_allowed": true,
+        "apply_mode": "OFFLINE_CHANNEL_PARTNER"
+      },
+      "contact": {
+        "website": "www.nbcfdc.gov.in",
+        "helpline": "011-26174968"
+      }
+    },
+    {
+      "lender_id": "L002",
+      "lender_name": "PM SVANidhi",
+      "lender_full_name": "PM Street Vendor's AtmaNirbhar Nidhi",
+      "lender_type": "government",
+      "scheme_name": "Working Capital Loan for Street Vendors",
+      "eligibility": {
+        "min_credis_score": 40,
+        "min_monthly_income": 2000,
+        "max_annual_family_income": 500000,
+        "ckyc_required": false,
+        "target_category": [
+          "street_vendor",
+          "gig_worker",
+          "informal_worker"
+        ],
+        "age_min": 18,
+        "age_max": 65
+      },
+      "loan_details": {
+        "min_amount": 10000,
+        "max_amount": 50000,
+        "currency": "INR",
+        "interest_rate_percent": 7.0,
+        "tenure_months_min": 12,
+        "tenure_months_max": 18,
+        "processing_fee_percent": 0.0,
+        "collateral_required": false,
+        "loan_purpose": [
+          "working_capital",
+          "business"
+        ]
+      },
+      "process": {
+        "approval_time_days": 3,
+        "disbursement_mode": "BANK_TRANSFER",
+        "repayment_mode": "EMI",
+        "prepayment_allowed": true,
+        "apply_mode": "ONLINE_APP"
+      },
+      "contact": {
+        "website": "www.pmsvanidhi.mohua.gov.in",
+        "helpline": "1800-11-1979"
+      }
+    },
+    {
+      "lender_id": "L003",
+      "lender_name": "MUDRA Shishu",
+      "lender_full_name": "Pradhan Mantri MUDRA Yojana \u00e2\u20ac\u201d Shishu Category",
+      "lender_type": "government",
+      "scheme_name": "MUDRA Shishu Loan for Micro Enterprises",
+      "eligibility": {
+        "min_credis_score": 45,
+        "min_monthly_income": 3000,
+        "max_annual_family_income": 600000,
+        "ckyc_required": false,
+        "target_category": [
+          "micro_enterprise",
+          "gig_worker",
+          "self_employed"
+        ],
+        "age_min": 18,
+        "age_max": 65
+      },
+      "loan_details": {
+        "min_amount": 10000,
+        "max_amount": 50000,
+        "currency": "INR",
+        "interest_rate_percent": 10.0,
+        "tenure_months_min": 12,
+        "tenure_months_max": 36,
+        "processing_fee_percent": 0.0,
+        "collateral_required": false,
+        "loan_purpose": [
+          "business",
+          "equipment",
+          "working_capital"
+        ]
+      },
+      "process": {
+        "approval_time_days": 7,
+        "disbursement_mode": "BANK_TRANSFER",
+        "repayment_mode": "EMI",
+        "prepayment_allowed": true,
+        "apply_mode": "BANK_BRANCH"
+      },
+      "contact": {
+        "website": "www.mudra.org.in",
+        "helpline": "1800-180-1111"
+      }
+    }
+  ],
+  "total_eligible_lenders": 8,
+  "score_breakdown": {
+    "income_stability": 80,
+    "platform_reliability": 100.0,
+    "work_consistency": 100,
+    "spending_discipline": 100,
+    "income_growth": 60
+  },
+  "growth_roadmap": "# **Personalized 12-Month Financial Growth Roadmap for Priya Lakshmi**\n*Zomato Platform | CREDIS Score: 100/100 | Low Risk \u2014 High Need*\n\n---\n\n## **MONTHS 1-3 (Foundation):**\n\n- **Action 1: Leverage NBCFDC Loan Recommendation** - Apply for the recommended Rs.300,000 loan at 8.0% interest rate. Use Rs.200,000 for business equipment upgrade (bike maintenance, delivery gear, smartphone) and Rs.100,000 to build emergency fund.\n\n- **Action 2: Optimize Current Income Streams** - Analyze Zomato delivery patterns to identify peak earning hours/days. Aim to increase monthly income from Rs.39,975 to Rs.45,000 by maximizing high-order deliveries and bonus opportunities.\n\n- **Action 3: Strengthen RD Contribution** - Increase recurring deposit from Rs.1,000/month to Rs.2,000/month by utilizing additional earnings from strategic delivery scheduling.\n\n---\n\n## **MONTHS 4-6 (Growth):**\n\n- **Action 1: Diversify Income Sources** - Register on 1-2 additional food delivery platforms (Swiggy/Ola) to reduce dependency on single platform and aim for combined monthly income of Rs.55,000.\n\n- **Action 2: Build Credit History** - Use the NBCFDC loan strategically and make timely EMI payments. Consider a small credit card (Rs.25,000 limit) if eligible for daily expenses to establish strong credit repayment track record.\n\n- **Action 3: Emergency Fund Completion** - Reach Rs.50,000 emergency fund target by setting aside additional Rs.5,000/month from income growth.\n\n---\n\n## **MONTHS 7-9 (Expansion):**\n\n- **Action 1: Insurance Review & Enhancement** - Evaluate current insurance coverage. Add health insurance (Rs.3 lakh coverage) and accidental insurance given delivery work risk profile.\n\n- **Action 2: Investment Portfolio Initiation** - Start systematic investment plan (SIP) of Rs.3,000/month in low-risk mutual funds while maintaining RD at Rs.2,000/month.\n\n- **Action 3: Skill Development** - Invest Rs.5,000 in customer service certification or driving skill enhancement to qualify for premium delivery partnerships (Zomato Gold, corporate clients).\n\n---\n\n## **MONTHS 10-12 (Consolidation):**\n\n- **Action 1: Deleveraging Strategy** - Target 80% repayment of NBCFDC loan principal to reduce debt burden and improve credit utilization ratio.\n\n- **Action 2: Income Maximization** - Leverage enhanced skills and equipment to achieve Rs.70,000+ monthly income through premium delivery routes and higher-value orders.\n\n- **Action 3: Tax Planning & Compliance** - Ensure proper ITR filing, claim all applicable deductions ( Sections 80C, 80D) and establish professional GST registration if applicable.\n\n---\n\n## **YEAR END TARGET:**\n\n- **Expected income:** Rs.75,000/month (87% growth from baseline)\n- **Savings target:** Rs.75,000 total (Rs.50,000 emergency fund + Rs.20,000 investments + Rs.5,000 RD)\n- **CREDIS Score target:** Maintain 100/100 while reducing risk band from \"High Need\" to \"Low Risk \u2014 Stable Need\"\n\n---\n\n**Key Success Metrics:**\n- 12+ months of on-time loan repayments\n- Emergency fund equal to 1 month of income\n- 3 diversified income sources\n- Comprehensive insurance coverage\n- 50% increase in monthly earning capacity\n\n*This roadmap balances immediate needs access with long-term financial stability, positioning Priya for sustainable growth while maintaining her excellent credit standing.*",
+  "additional_metrics": {
+    "income_cv": 0.149013967640707,
+    "growth_pct": 1.216442953020122,
+    "active_months": 12,
+    "rent_payments_count": 12,
+    "h1_avg": 39733.333333333336,
+    "h2_avg": 40216.666666666664,
+    "min_income": 22900,
+    "max_income": 46400,
+    "rating": 4.9,
+    "cancellation_rate": 0.01,
+    "active_days_per_month": 26,
+    "has_rd": true,
+    "rd_amount": 1000,
+    "rd_months_paid": 12,
+    "has_insurance": true,
+    "insurance_premium": 2400,
+    "ckyc": true,
+    "current_balance": 38500.0,
+    "nbcfdc_history": {
+      "previous_loan_amount": 75000,
+      "loan_purpose": "vehicle",
+      "tenure_months": 18,
+      "repayment_status": "COMPLETED",
+      "on_time_payments": 18,
+      "late_payments": 0,
+      "missed_payments": 0,
+      "repeat_borrower": true
+    }
+  }
+}
