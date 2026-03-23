@@ -1,0 +1,7 @@
+# Frontend dependencies
+credis-frontend/node_modules/
+credis-frontend/.env
+credis-frontend/.env.local
+credis-frontend/.git
+credis-frontend/build/
+credis-frontend/.DS_Store
