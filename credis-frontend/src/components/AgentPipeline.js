@@ -22,7 +22,7 @@ export default function AgentPipeline({ workerId, workerData, onComplete }) {
     setMiniProg(AGENT_META.map(() => 0));
     runPipeline();
     return () => timers.current.forEach(clearTimeout);
-  }, [workerId]);
+  }, [workerId]); // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
     if (logRef.current) logRef.current.scrollTop = logRef.current.scrollHeight;
