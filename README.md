@@ -1,4 +1,6 @@
-﻿# 🏦 CREDIS - Behavioral Credit Intelligence System
+# 🏦 CREDIS - Behavioral Credit Intelligence System
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-credis.vercel.app-brightgreen)](https://credis.vercel.app)
 
 ## 📋 Overview
 
@@ -351,12 +353,11 @@ GOOGLE_API_KEY=your_google_gemini_api_key_here
 import json
 with open('output/result_W001.json') as f:
     data = json.load(f)
-    print(f'Worker: {data[\"worker_name\"]}')
-    print(f'Platform: {data[\"platform\"]}')
-    print(f'CREDIS Score: {data[\"credis_score\"]}/100')
-    print(f'Risk Band: {data[\"risk_band\"]}')
-    print(f'Max Loan: Rs.{data[\"max_loan\"]:,}')
-    print(f'Approval: {data[\"approval_days\"]} day(s)')
+    print(f'Worker: {data["worker_name"]}')
+    print(f'Platform: {data["platform"]}')
+    print(f'CREDIS Score: {data["credis_score"]}/100')
+    print(f'Risk Band: {data["risk_band"]}')
+    print(f'Max Loan: Rs.{data["max_loan"]:,}')
 "
 ```
 
@@ -367,7 +368,7 @@ with open('output/result_W001.json') as f:
 | Command | Purpose |
 |---------|---------|
 | `python -m venv venv` | Create virtual environment |
-| `.\venv\Scripts\Activate.ps1` | Activate environment |
+| `.\\venv\Scripts\Activate.ps1` | Activate environment |
 | `pip install -r requirements.txt` | Install all dependencies |
 | `python agents/agent6_growthcoach.py W001` | Run complete pipeline for worker W001 |
 | `python -m streamlit run dashboard/app.py` | Launch web dashboard |
